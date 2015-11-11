@@ -8,3 +8,5 @@
 * Homebrewing
 * BBQ
 * Building things
+
+**Favorite Color:** Nuclear Green
